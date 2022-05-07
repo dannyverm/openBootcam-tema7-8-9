@@ -1,0 +1,2 @@
+Nombre: julio ---> Edad: 41
+Nombre: cynthia ---> Edad: 46
